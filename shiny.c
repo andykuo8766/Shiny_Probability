@@ -5,7 +5,7 @@ int main(){
 
 	int times = 0;
 	double result = 1;
-	printf("Please Input Times :");
+	printf("Please Input Times : ");
 	scanf("%d",&times);
 	
 	for(int j = 0 ; j < times; j++){
